@@ -1,0 +1,1 @@
+var name="Mayur";console.log("Got it This is amazing"),document.write("Hello World! Hellow to "+name);
